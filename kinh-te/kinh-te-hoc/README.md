@@ -10,9 +10,8 @@
 
 Có rất nhiều những cộng đồng liên quan đến chuyên ngành, đa phần là Tiếng Anh.
 
-
 ## Lộ trình học
-# MOOC for MBA
+
 A collection of free self-taught courses on MBA classes. Taken from [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-make-a-mooc-mba-using-free-courses-from-top-10-business-schools-545113e506d9/).
 
 # Classes

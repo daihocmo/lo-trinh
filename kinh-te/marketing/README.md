@@ -12,7 +12,6 @@
 
 Có rất nhiều những cộng đồng liên quan đến chuyên ngành, đa phần là Tiếng Anh.
 
-
 ## Lộ trình học
 
 Khối kiến thức cơ sở ngành: 21 tín chỉ TC

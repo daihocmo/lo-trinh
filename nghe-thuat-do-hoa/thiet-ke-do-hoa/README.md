@@ -1,177 +1,295 @@
-## Bảng chỉ mục
+# Graphics Design Roadmap
 
-- [Cộng đồng](#cộng-đồng)
-- [Lộ trình học](#lộ-trình-học)
-- [Tiếng Anh chuyên ngành](#tiếng-anh-chuyên-ngành)
-- [Tài nguyên](#tài-nguyên)
-- [Đóng góp](#đóng-góp)
+**“We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in UI/UX. This Document for who are interested in UI/UX”**
 
-## Cộng đồng
-
-Có rất nhiều những cộng đồng liên quan đến chuyên ngành, đa phần là Tiếng Anh.
+## **🟦What is UI/UX?**
 
 
-## Lộ trình học
-## Một lộ trình khác
+-   " **User Interface (UI) design** is the process of transforming wireframes into a polished graphical user interface ". a UI designer’s job begins where a UX designer’s job ends—at the prototyping stage. They take the wireframes and add visual design to make them more usable, aesthetically appealing, and optimized for different screen sizes.
 
-### Softwares
-| Học phần  | Khóa Tiếng Anh tương ứng | Thời gian | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| | Adobe Illustrator | | |
-| | Adobe Photoshop | | |
-| | Adobe InDesign | | |
-| | Adobe Premiere  | | |
-| | Adobe After Effects | | |
-| | Adobe XD/Figma | | |
-| | Web Design | | |
+-   " **User Experience (UX) design** is about understanding the overall journey of your users and turning it into a product. The role of a user experience designer is to understand the customer journey. That means understanding the target audience, interviewing customers, defining user flows, and conducting user testing. "
 
+![UI vs UX](http://bluebash.co/blog/content/images/2020/04/differenceuiux..png)
 
-### Design theory
+## **🟦Level 0️⃣:-**
 
-| Học phần  | Khóa Tiếng Anh tương ứng | Thời gian | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| | Color Theory | | |
-| | Color Harmonies | | |
-| | Typography | | |
-| | Font Pairing | | |
-| | Type and Layout Hierarchy Layout | | |
-| | Contrast and scale | | |
-| | Design Psychology | | |
-| | Grids | | |
-| | Design History | | |
+### Difference Between UI & UX.
 
-### Design principles
+- **Videos**
+    - English : [Youtube Video](https://www.youtube.com/watch?v=RtPnVtXw6HU)
+    - Arabic : [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
+- **Articles**
+    - [What’s the difference between UI & UX design?](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
 
-| Học phần  | Khóa Tiếng Anh tương ứng | Thời gian | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| | Balance for stability and structure | | |
-| | Hierarchy to create organization and direction | | |
-| | Contrast to generate impact and highlight important areas | | |
-| | Repetition to unify and strengthen the design | | |
-| | Alignment to create a sharper, clearer outcome | | |
+### How to start with a Tool
 
-### Design thinking
-| Học phần  | Khóa Tiếng Anh tương ứng | Thời gian | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
+**Adobe XD Tool**
 
-### Design Process
+- English Tutorial (Recommended) : [Learnux Playlist](https://learnux.io/course/adobe-xd)
+- Arabic Tutorial : [Youtube Playlist](https://www.youtube.com/watch?v=EqSd8vXGcBk&list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
 
-| Học phần  | Khóa Tiếng Anh tương ứng | Thời gian | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| | Basic Idea Generation | | |
-| | Moodboards | | |
+**Figma Tool**
 
-## Ý tưởng 2
-Typography and Image Creation
-Design History and Critical Thinking
-Design and Layout
-Illustration and Animation
-Design Vocabulary
-Digital and Analogue Moving Image
+- English Tutorial (Recommended) : [Learnux Playlist](https://learnux.io/course/figma)
+- Arabic Tutorial :  [Youtube Playlist](https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)
 
-Studio Practice I
-Studio Practice II
-Reading Images I
-Reading Images II
+### Practice on how to use the tool
+- **Adobe XD**
+     - [E-Commerce App (Youtube)](https://www.youtube.com/watch?v=_5uI_BOpvkA)
+     - [Plant App (Behance)](https://www.behance.net/gallery/127006201/Plant-App-Sign-up-login-UI?tracking_source=search_projects_recommended%7Clog%20in%20sign%20up)
+- **Figma**
+     - [Food Ordering Mobile App Design](https://youtu.be/O3BmHGNAGhM)
+     - [Full App Design.](https://youtu.be/GP91kWinPdg)
+### Basics of UI Design.
 
-Self-Promotion and Packaging I
+- **Color inspiration**
+    - [Color Hunt](https://colorhunt.co/)
+    - [Coolors](https://coolors.co/)
+    - [Flat UI Colors](https://flatuicolors.com/)
+    - [Colormind](http://colormind.io/)
+    - [Colorinspire](https://colorinspire.webflow.io/)
 
-Visualising Concepts
-Self-Promotion and Packaging II
-Industry Competition Briefs
-Dissertation
-Major Project
+    - [7 steps guide to understand color theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/)
+    - [Color Theory Interaction Design](https://www.interaction-design.org/literature/topics/color-theory)
+    - Colors Palette
+        - [Color Palettes for Designers and Artists - Color Hunt](https://colorhunt.co/)
+        - [Fresh Background Gradients | WebGradients.com 💎](https://webgradients.com/)
+        - [ColorSpace - Color Palettes Generator and Color Gradient Tool (mycolor.space)](https://mycolor.space/)
+        
+- **Photos**
+    - [Types of images in UI design](https://uxcel.com/blog/the-basic-types-of-images-in-ui-design)
+        - [Freepik](https://www.freepik.com/)
+        - [Pexels](https://www.pexels.com/)
+        - [Pixabay](https://www.shutterstock.com/search/pixabay?kw=&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoc2xTMHHU8J9BQXbOJ-p8OEQjoqvNW6LnS0y9wqUdGGvnBrejDcqzAaAglhEALw_wcB)
+        - [Unsplash](https://unsplash.com/)
+        - [Reshot](https://www.reshot.com/)
+        - [Pinterest](https://www.pinterest.com/)
+    - A little knowledge of Illustrator tool to get clear images
+    
+    OR
+    
+    - [Remove Background From Images](https://www.erase.bg/en/) (If the image has the included element)
+    
+- **Icons**
+    - [Types and Functions of UI Icons](https://blog.tubikstudio.com/small-elements-big-impact-types-and-functions-of-ui-icons/)
+    - [7 Principles of Icon Design](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2)
+        - [Flaticon](https://www.flaticon.com)
+        - [Icons8](https://icons8.com/)
+        - [Iconfinder](https://www.iconfinder.com/)
+        - [Free icons](https://freeicons.io)
+        - [Feather icons](https://feathericons.com/)
+        - [The Noun Project](https://thenounproject.com/)
+        - [Icons store](https://iconstore.co/)
+        - [Simple icon](https://simpleicons.org/)
 
+- **Illustrations**
+     - [UnDraw](https://undraw.co/)
+     - [StorySet](https://www.atlassian.com/software/jira?gclsrc=aw.ds&&aceid=&adposition=&adgroup=97207397182&campaign=9795515412&creative=430047058033&device=c&keyword=story%20set&matchtype=e&network=g&placement=&ds_kids=p69502831155&ds_e=GOOGLE&ds_eid=700000001756546&ds_e1=GOOGLE&gclid=Cj0KCQjw0umSBhDrARIsAH7FCoeUXJYyw2zXSXumnFKzY0Zm_6_QbGZc2mwzy8Weo5mR9mkyWrovV4waAp4qEALw_wcB)
+     - [Vecteezy](https://www.vecteezy.com/)
+     - [Drawkit](https://drawkit.com/)
+     - [Humaaans](https://www.humaaans.com/)
+     - [Illustation](https://illustation.io/)
+        
+- **Grid**
+    - [8-Point Grid](https://spec.fm/specifics/8-pt-grid?fbclid=IwAR1g_goEhw0SNhix91zj1yLNeAvmW8Qg5Ab4ia-OiXSgvSuqgMhPlbbI9m8)
+    - [How to use Grid System](https://www.interaction-design.org/literature/article/how-to-use-grid-systems)
+    - [GRID systems for beginners](https://youtu.be/pxN8w-ywSuc)
 
-### Học kỳ 1
-
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| [Hình hoạ - Vẽ Khối, tĩnh vật](https://www.youtube.com/playlist?list=PL5IHp8Tp2qxlE2IW5n5-_B6U-dCA_gaD0) | | | |
-| [Hình hoạ - Vẽ đầu tượng, chân dung](https://youtube.com/playlist?list=PLxw43IZUMeBgc66-f4yftXzCoA6g5k8yM) | | | |
-| [Công cụ Thiết kế Trực quan]() | | | |
-| [Nguyên lý thị giác](https://www.youtube.com/playlist?list=PL8D2skF29e5U5ZlfCBE3RLzElJgLwj0l4) | | | |
-
-
-### Học kỳ 2
-
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| [Giải phẫu tạo hình](https://youtube.com/playlist?list=PLsYqifOWoUYSkurpgrOr9Pz7bFGk1zz0q) | | | |
-| [Nguyên lý đồ hoạ cơ bản]() | | | |
-| [Phối cảnh]() | | | |
-| Học phần lựa chọn 1 | | | |
-
-### Học kỳ 3
-
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| [Phát triển ý tưởng và kịch bản]() | | | |
-| [Nhiếp ảnh]() | | | |
-| [Đồ họa chữ và bố cục cơ bản]() | | | |
-| Học phần lựa chọn 2 | | | |
-
-### Học kỳ 4
-
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| [Tạo hình nhân vật hoạt hình](https://youtube.com/playlist?list=PLfyZn-NXs_wUCswpYZINDO71OlFdsvO4p) | | | |
-| [Nguyên lý chuyển động]() | | | |
-| [Đồ họa chữ và thiết kế ấn bản điện tử]() | | | |
-| [Thiết kế UI/UX](https://youtube.com/playlist?list=PLBAEwLFSjA3P3l8LJKqLfgtQrpoOo0E_O) | | | |
-
-### Học kỳ 5
-
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| [Nguyên lý truyền thông và quảng cáo]() | | | |
-| [Thiết kế hình ảnh và âm thanh trong làm phim]() | | | |
-| [Lịch sử mỹ thuật Việt Nam và thế giới]() | | | |
-| Học phần 1 của combo | | | |
-| Học phần 2 của combo | | | |
+- **Typography**
+    - [Typography in UI: Guide for Beginners](https://blog.tubikstudio.com/typography-in-ui-guide-for-beginners/)
+        - [Google Fonts](https://fonts.google.com/)
+        - [Arabic Fonts](https://arbfonts.com/)
+    - [8 Rules for Perfect Typography in UI](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce)
+    
 
 
-_PS: Theo giáo trình gốc thì Học kì 6 và 7 không phải là các môn học chuyên ngành nên mình sẽ bỏ qua._
+- **Guidelines**
+    - [IOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines?fbclid=IwAR0Q0ow4cjLjGQvpqhtORtNSel7bAlcn2GTM1DciG7rwRwJgQsleV-8Kyug)
+    - [Material Design](https://material.io/design/guidelines-overview)
+    - [A/B Test for websites](https://goodui.org/)
+  
+### UI Design Principles
 
-### Học kỳ 6
+ - [Golden rules of user interface design](https://maze.co/collections/ux-ui-design/ui-design-principles/)
+ - [The 4 Golden Rules of UI Design](https://xd.adobe.com/ideas/process/ui-design/4-golden-rules-ui-design/)
+ - [User Interface Design Guidelines: 10 Rules of Thumb](https://www.interaction-design.org/literature/article/user-interface-design-guidelines-10-rules-of-thumb)
+ - [10 Fundamental UI Design Principles You Need to Know](https://dribbble.com/resources/ui-design-principles)
+ - [The Basic Principles of User Interface Design](https://www.uxpin.com/studio/blog/ui-design-principles/)
 
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| [Đào tạo trong môi trường thực tế]() | | | |
-| [Kỹ năng viết học thuật]() | | | |
+### Practice many designs for web and mobile(Inspiration)
+
+- [Task 1](https://dribbble.com/shots/4476562-Stand-for-Wildlife)
+- [Task 2](https://dribbble.com/shots/14968188-Travel-Service-Mobile-App)
+- [Task 3](https://dribbble.com/shots/16322334-Rental-Car-App-UI-Design)
+- [Task 4](https://dribbble.com/shots/9324251-Task-Management-Application-Design)
+- [Task 5](https://dribbble.com/shots/16473464-Task-Management-App)
+
+Note: Follow the hierarchy of the tasks 
+
+### Inspiration
+
+Note: You can search for your idea and start to build your own design as it is only inspiration.
+
+- [Behance](https://www.behance.net/)
+- [Dribble](https://dribbble.com/)
+- [Pinterest](https://www.pinterest.com/)
+- [Mobbin](https://mobbin.design/)
+
+### Level 0 ✔
+
+## **🟦Level 1️⃣:-**
+### You can start with XD Challenges for creative UI ideas.
+
+- [XD Challenge (Behance)](https://www.behance.net/challenge/xd)
+
+### UI Design articles
+
+- [Elements of design](https://www.invisionapp.com/defined/elements-of-design)
+- [Guide to space and layout in UI design](https://www.justinmind.com/blog/your-guide-to-space-and-layout-in-ui-design/)
+- [5 Principles of Visual Design in UX](https://www.nngroup.com/articles/principles-visual-design/)
+- [10 rules of composition all designers](https://www.canva.com/learn/visual-design-composition/)
+- [Design Systems: Step-by-Step](https://www.uxpin.com/create-design-system-guide/)
+- [10 tips for designing the user mind](https://www.seekmomentum.com/blog/website-design/10-tips-designing-users-mind)
+
+### Full UI project
+
+- An idea from your mind as it will be designed for:
+    - Mobile Application
+    - Website
+
+### Mockup
+
+- [What is a Mockup?](https://www.youtube.com/watch?v=8iP2qXwk184&t=189s)
+    - [Mockup for free](https://mockupsforfree.com/)
+    - [Mockup World](https://www.mockupworld.co/)
+    - [Graphic Burger](https://graphicburger.com/)
+    - [Is graphics](https://www.ls.graphics/free-mockups)
+
+### Portfolio
+
+- [Complete Guide to UI Portfolio](https://blog.uxfol.io/ui-designer-portfolio/)
+- [Advice for Beginners](https://www.youtube.com/watch?v=NGiQCBsVayI)
+
+### Upload project
+
+- [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=5yL-_sYKCHU)
+
+---
+
+# **UX Getting Started**🕊
+
+### What is UX Design
+
+- [The meaning of UX](https://careerfoundry.com/en/blog/ux-design/)
+
+### **What is the process of UX**
+
+- [Process of UX](https://xd.adobe.com/ideas/guides/ux-design-process-steps/)
+- [Process of UX (Video)](https://www.youtube.com/embed/Um3BhY0oS2c?autoplay=1&controls=1&showinfo=0&rel=0)
+
  
-### Học kỳ 7
 
-_Bỏ_
+### The first step is to find a [Product idea](https://www.youtube.com/watch?v=_yinLUI_U1Y&list=PLK9t9dlS8Xr8EMO6DhUQLeEo2RB7Y9BI9&index=4) you can be the stakeholder with the idea at your first time.
 
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| Trải nghiệm khởi nghiệp 1 | | | |
-| Sản xuất âm thanh | | | |
-| Cơ sở văn hóa Việt Nam | | | |
-| Học phần 3 của combo | | | |
-| Học phần 4 của combo | | | |
+### UX Research
 
-### Học kỳ 8
+- **Research Plan**
+    - [What is user research](https://xd.adobe.com/ideas/process/user-research/)
+    - [Research Plan & Recruiting for UX Design Projects](https://www.youtube.com/watch?v=w5JAbELISKI)
+    - [Example](https://video.udacity-data.com/topher/2019/October/5da657d1_example-research-plan/example-research-plan.pdf)( semi-structure)
+- **User interview**
+    - **[User Interviews: How, When, and Why to Conduct Them](https://www.nngroup.com/articles/user-interviews/?ref=uxtools-challenges)**
+    - **[User Interview Questions](https://stephaniewalter.design/blog/a-cheatsheet-for-user-interview-and-follow-ups-questions/?ref=uxtools-challenges)**
+    - [Ways to improve questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/?ref=uxtools-challenges)
+    - [Research report](https://video.udacity-data.com/topher/2019/October/5da65823_example-research-report/example-research-report.pdf)
+- **Journey map**
+    - [The meaning of journey map](https://www.nngroup.com/articles/journey-mapping-101/?ref=uxtools-challenges)
+    - [Customer Journey Map Workshop](https://www.youtube.com/watch?v=X7iXcP-wIkk)
+- **Competitive Analysis**
+    - **[A Guide to Competitive Analysis for UX Design](https://xd.adobe.com/ideas/process/user-research/guide-to-competitive-analysis-ux-design/?ref=uxtools-challenges)**
+    - **[Essential Ingredients For Every Competitive Analysis](https://uxdesign.cc/essential-ingredients-for-every-competitive-analysis-ce08906a4079)**
+- **User Persona**
+    - [Definition of Persona](https://www.nngroup.com/articles/persona/?ref=uxtools-challenges)
+    - [Tips for How to Create & Use Personas](https://www.youtube.com/watch?v=7z7893qE_0w)
+- **Empathy Map**
+    - **[The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping/?ref=uxtools-challenges)**
+    - [How to make the Empathy Map](https://youtu.be/QwF9a56WFWA)
 
-| Môn học  | Khóa Tiếng Anh tương ứng | Số lượng tín chỉ | Tài liệu |
-| -------- | ------------------------ | ---------------- | -------- |
-| [Mỹ học đại cương]() | | | |
-| [Lịch sử thiết kế]() | | | |
-| [Luật sở hữu trí tuệ](https://youtube.com/playlist?list=PLy3fk_j5LJA4Jbk2joRL2aGwIY4AYAR6I) | | | |
-| Học phần 5 của combo | | | |
+### Level 1 ✔
+------------------------------------------------------------------------
+## **🟦Level 2️⃣:-**
+
+ ### Wireframes
+
+- [What are Wireframes](https://balsamiq.com/learn/articles/what-are-wireframes/)
+- [How To Make Your First Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+- [How To Create Your First Wireframe (Video Guide)](https://www.youtube.com/watch?v=KdfO_e0yK-g)
+
+### **Digital Prototype**
+
+- [The ultimate guide to prototyping](https://www.justinmind.com/prototyping?ref=uxtools-challenges)
+- [Rapid Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+
+### **Information Architecture**
+
+- [What is Information Architecture](https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/)
+- [Guide To Information Architecture](https://youtu.be/Ij4WquJaRTc)
+- [Top 10 Information Architecture (IA) Mistakes](https://www.nngroup.com/articles/top-10-ia-mistakes/?ref=uxtools-challenges)
+
+### Usability Testing
+
+- [What is Usability Testing](https://www.nngroup.com/articles/usability-testing-101/)
+- [Why Usability Test?](https://www.nngroup.com/articles/usability-testing-101/?ref=uxtools-challenges)
+- [What makes a good usability test?](https://www.youtube.com/watch?v=2Au2NoSSg-A?ref=uxtools-challenges)
 
 
-## Tài nguyên
+### Implement a final project
 
-## Đóng góp
+- Inspire an idea
+- Implement a mobile application and a website included UI/UX process
+- Upload the final project with a use case in Behance
+
+### UX Certification (for more experience):
+
+**[Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleUXDesign-ROW&utm_content=15-GoogleUXDesign-ROW&campaignid=12566638067&adgroupid=119528847077&device=c&keyword=ux%20design%20google%20certificate&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=507197228289&hide_mobile_promo&gclid=CjwKCAiAvriMBhAuEiwA8Cs5lTRCjuQvh68Hh6ksx5OAb3q3eNkZBpEz4xrPiO7_N0pWhc4uy36PCRoCMXoQAvD_BwE)**
+
+**[UX Design Course Nanodegree (Udacity)](https://www.udacity.com/course/ux-designer-nanodegree--nd578)**
+
+### Useful links for UI/UX
+
+- [Evernote](https://www.evernote.design/)
+- [Good UX vs Bad UX: Landing Pages](https://www.youtube.com/watch?v=hCkmtXqbOrs) (And we looked at a number of examples of different products and interfaces while
+considering what might make them good (or bad) experiences for users.)
+
+- [Design Review](https://www.youtube.com/watch?v=mt2wlw72wVY)
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [Mistakes](https://www.youtube.com/watch?v=aVs6EZP0inQ)
+### YouTube:
+- [Sarah Doody](https://www.youtube.com/c/SarahDoody)
+- [DesignCourse](https://www.youtube.com/user/DesignCourse)
+- [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
+- [Jesse Showalter](https://www.youtube.com/user/JesseAtomic)
 
 
-## Tài nguyên
-
-## Đóng góp
 
 
-### Resources
 
-https://kotilabdulkadir.notion.site/The-Ultimate-450-Websites-Directory-for-Freelancers-Solopreneurs-b48bf26f94d1442aa2ead96ee139161a
+### Reading books
+
+- [The Design of Everyday Things](https://drive.google.com/drive/folders/1Axoq6lz3BrWd8dAiBhfm3d5YzDANgByQ?usp=sharing)
+- [100 Things Every Designer Needs to Know about People](https://drive.google.com/drive/folders/1dhWkcjJYZXIoY5uzgIAAa08ld1uBM9IB?usp=sharing)
+- [Don't Make Me Think](https://drive.google.com/drive/folders/1CcB-yniVb7gPPb2iKtm-AVCi7KXup5Eh?usp=sharing)
+- [The Actionable Guide to Starting Your Design System](https://drive.google.com/drive/folders/1KTmzWMcdzorubP3gq78Q6ur18eZv9Vji?usp=sharing)
+- [The Elements of Successful UX Design](https://drive.google.com/drive/folders/1fAQqW3e_iuoxy9eH_QIqCkMx5hYDe3wz?usp=sharing)
+- [Meaningful Mobile Typography](https://drive.google.com/drive/folders/1ZV0WnjAGzoTWIAEvHBVFi_FXxp5A_JlD?usp=sharing)
+- [More Books](https://drive.google.com/drive/mobile/folders/1Ju0u-PeAyyxvj2exvmKkzLQEx5oC7Tfu?usp=sharing)
+
+ 
+Congratulation, we hope for you all the best, **CIS Mentors.**
+
+## **▶️Our Contacts📱**
+<a href="https://www.facebook.com/manarosman70/"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mannarosman/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://m.facebook.com/doaa.hamdy.5895"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="http://linkedin.com/in/doaa-hamdy-8598201b4" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
