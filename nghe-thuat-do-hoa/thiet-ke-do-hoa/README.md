@@ -1,4 +1,6 @@
-# Graphics Design Roadmap
+# Lộ trình đào tạo ngành Thiết kế đồ họa
+
+## Graphics Design Roadmap
 
 **“We are in [CIS](https://www.facebook.com/cisteam15/) try to give you advice about How to start in UI/UX. This Document for who are interested in UI/UX”**
 
