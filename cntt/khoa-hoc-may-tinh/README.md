@@ -16,11 +16,11 @@
 
 # Contents
 
-- [Summary](#summary)
-- [Community](#community)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
+- [Tóm tắt](#summary)
+- [Cộng đồng](#community)
+- [Giáo trình](#curriculum)
+- [Quy định](#code-of-conduct)
+- [Giấy phép](#license)
 
 # Summary
 
@@ -89,26 +89,26 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
-  - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
-  - [Advanced math](#advanced-math)
-- [Final project](#final-project)
+- [Yêu cầu tối thiểu](#prerequisites)
+- [Mở đầu](#intro-cs)
+  - [Giới thiệu về Lâp trình](#introduction-to-programming)
+  - [Giới thiệu về Khoa học máy tính](#introduction-to-computer-science)
+- [Phần chính](#core-cs)
+  - [Lập trình căn bản](#core-programming)
+  - [Toán căn bản](#core-math)
+  - [Công cụ cho KHMT](#cs-tools)
+  - [Hệ thống căn bản](#core-systems)
+  - [Lý thuyết căn bản](#core-theory)
+  - [Bảo mật căn bản](#core-security)
+  - [Ứng dụng căn bản](#core-applications)
+  - [Đạo đức căn bản](#core-ethics)
+- [Phần nâng cao - Định hướng học](#advanced-cs)
+  - [Lập trình](#advanced-programming)
+  - [Hệ thống](#advanced-systems)
+  - [Lý thuyết](#advanced-theory)
+  - [Bảo mật thông tin](#advanced-information-security)
+  - [Toán](#advanced-math)
+- [Dự án cuối chương trình](#final-project)
 
 ---
 

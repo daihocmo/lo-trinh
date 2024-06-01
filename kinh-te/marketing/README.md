@@ -15,6 +15,7 @@ Có rất nhiều những cộng đồng liên quan đến chuyên ngành, đa p
 ## Lộ trình học
 
 Khối kiến thức cơ sở ngành: 21 tín chỉ TC
+
 **_Bắt buộc: 15TC_**  
 
 | Khóa học | Khóa Tiếng Anh tương ứng | Thời lượng học | Tài liệu học |
@@ -25,7 +26,7 @@ Khối kiến thức cơ sở ngành: 21 tín chỉ TC
 |[Quản trị học](https://youtube.com/playlist?list=PLlL81C92q4W4YLgyMAMzyaPhWJ7JWUxdy) | Introduction to Management | 3TC | |  
   
 
-**_Tự chọn: 6TC | | trong số 15 TC | | của các học phần dưới đây_**  
+_Chọn 2 môn trong số những môn dưới đây_
 
 | Khóa học | Khóa Tiếng Anh tương ứng | Thời lượng học | Tài liệu học |
 | -------- | ------------------------ | -------------- | ------------ |
@@ -49,8 +50,7 @@ Khối kiến thức cơ sở ngành: 21 tín chỉ TC
 | Marketing kỹ thuật số và Mạng xã hội | Digital Marketing & Social Media | 3TC | |  
 | Đạo đức và các vấn đề đương đại trong Marketing | Ethics and contemporary issues in Marketing | 3TC | |  
   
-
-**_Tự chọn: 15 TC | | trong số 27 TC | | của các học phần dưới đây_**  
+_Chọn 3 học phần trong số những học phần dưới đây_
 
 | Khóa học | Khóa Tiếng Anh tương ứng | Thời lượng học | Tài liệu học |
 | -------- | ------------------------ | -------------- | ------------ |

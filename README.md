@@ -15,7 +15,7 @@ Rất nhiều ngành ở đây có thể tự học và rèn luyện với thự
 - Khoa học máy tính: 
     + [TeachYourselfCS](https://teachyourselfcs.com/) - Tự dạy mình Khoa học máy tính 
     + [Bản Tiếng Việt của TeachYourselfCS](https://github.com/htdat/TeachYourselfCS-vi/blob/main/README.md) - (Bản này bạn chỉ nên đọc tham khảo vì các link không được cập nhật như bản gốc) Đây chỉ là bản dịch, còn các học liệu vẫn hoàn toàn là Tiếng Anh
-    + Bản dịch OSSU-CS (Khóa Computer Science của OSSU) của mình với các khóa Tiếng Việt tương ứng bạn có thể đọc [tại đây](./cntt/khoa-hoc-may-tinh/index.md).
+    + Bản dịch OSSU-CS (Khóa Computer Science của OSSU) của mình với các khóa Tiếng Việt tương ứng bạn có thể đọc [tại đây](./cntt/khoa-hoc-may-tinh/README.md).
 - An toàn thông tin: 
     + [NXFuryInfoSec](https://github.com/TheNXFury/NXFuryInfoSec): Chương trình được soạn bởi NXFury 
     + [Bản Tiếng Việt của lộ trình trên](./cntt/an-toan-thong-tin/README.md)
