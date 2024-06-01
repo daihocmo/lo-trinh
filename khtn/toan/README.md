@@ -1,24 +1,10 @@
-<div align="center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
+# Mục lục
 
-<h3>Open Source Society University</h3>
-<p>
-  :abacus: Path to a free self-taught education in Math!
-</p>
-<p>
-  <a href="https://github.com/open-source-society/math">
-    <img alt="Open Source Society University - Math" src="https://img.shields.io/badge/OSSU-math-blue.svg">
-  </a>
-</p>
-</div>
-
-# Contents
-
-- [Summary](#summary)
-- [Community](#community)
-- [Code of conduct](#code-of-conduct)
-- [Curriculum](#curriculum)
-- [License](#license)
+- [Tóm tắt](#summary)
+- [Cộng đồng](#community)
+- [Quy định](#code-of-conduct)
+- [Giáo trình](#curriculum)
+- [Giấy phép](#license)
 
 # Summary
 
@@ -74,14 +60,14 @@ just remember that you can't purchase success!
 The curriculum is separated into two parts:
 
 - [Core Mathematics](#core-mathematics)
-  - [Introduction to Mathematical Thinking](#introduction-to-mathematical-thinking)
-  - [Calculus](#calculus)
+  - [Giới thiệu về tư duy toán học](#introduction-to-mathematical-thinking)
+  - [Giải tích](#calculus)
   - [Introduction to Differential Equations](#introduction-to-differential-equations)
-  - [Discrete Mathematics](#discrete-mathematics)
-  - [Linear Algebra](#linear-algebra)
-  - [Probability & Statistics](#probability--statistics)
+  - [Toán rời rạc](#discrete-mathematics)
+  - [Đại số tuyến tính](#linear-algebra)
+  - [Xác suất thống kê](#probability--statistics)
   - [Introduction to Analysis](#introduction-to-analysis)
-  - [Introduction to Abstract Algebra](#introduction-to-abstract-algebra)
+  - [Đại số trừu tượng](#introduction-to-abstract-algebra)
 - [Advanced Topics](#advanced-topics)
   - [Differential Equations](#differential-equations)
   - [Mathematical Logic](#mathematical-logic)
