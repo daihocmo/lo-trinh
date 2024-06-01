@@ -1,25 +1,10 @@
-![NXFury Information Security](banner.jpg)
-
-<h3 align="center">NXFury Information Security</h3>
-<p align="center">
-  Path to a free self-taught education in Information Security!
-</p>
-<p align="center">
-  <a href="https://github.com/TheNXFury/NXFuryInfoSec">
-	<img alt="NXFury- Information Security" src="https://img.shields.io/badge/NXFURY-Information%20Security-blue.svg">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-  	<img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-red.svg">
-  </a>
-</p>
-
 # Contents
 
-- [Summary](#summary)
-- [Community](#community)
-- [Curriculum](#curriculum)
-- [Code of Conduct](#code-of-conduct)
-- [Credits](#credits)
+- [Tóm tắt](#summary)
+- [Cộng đồng](#community)
+- [Giáo trình](#curriculum)
+- [Quy định](#code-of-conduct)
+- [Giấy phép](#license)
 
 # Summary
 
@@ -81,26 +66,26 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `0.0.1` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
+- [Yêu cầu tối thiểu](#prerequisites)
 - [Introductory Materials](#introductory-materials)
-  - [Introduction to Programming](#introduction-to-programming)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-  - [Introduction to Critical Thinking and Basic Logic](#introduction-to-critical-thinking-and-basic-logic)
-- [Core Curriculum](#core-curriculum)
-  - [Basics](#basics)
-  - [Core ethics](#core-ethics)
-  - [Databases](#databases)
-  - [Core Security](#core-security)
-- [Advanced Information Security](#advanced-information-security)
-  - [Advanced Programming](#advanced-programming)
-  - [Advanced Information Security](#advanced-information-security)
-- [Specialization](#specialization)
+  - [Giới thiệu về Lâp trình](#introduction-to-programming)
+  - [Giới thiệu về Khoa học máy tính](#introduction-to-computer-science)
+  - [Giới thiệu về tư duy phản biện và tư duy logic](#introduction-to-critical-thinking-and-basic-logic)
+- [Phần căn bản](#core-curriculum)
+  - [Căn bản](#basics)
+  - [Đạo đức căn bản](#core-ethics)
+  - [Cơ sở dữ liệu](#databases)
+  - [Bảo mật căn bản](#core-security)
+- [Bảo mật thông tin nâng cao](#advanced-information-security)
+  - [Lập trình nâng cao](#advanced-programming)
+  - [Bảo mật thông tin nâng cao](#advanced-information-security)
+- [Theo chuyên môn](#specialization)
   - [Digital Mobile Forensics](#digital-mobile-forensics)
-  - [Software Reverse Engineering](#software-reverse-engineering)
-  - [Secure Software Development](#secure-software-development)
+  - [Reverse Engineering trong phần mềm](#software-reverse-engineering)
+  - [Phát triển phần mềm bảo mật](#secure-software-development)
   - [Security Compliance](#security-compliance)
-  - [Cryptography](#cryptography)
-- [Final project](#final-project)
+  - [Tiền điện tử](#cryptography)
+- [Dự án cuối khóa](#final-project)
 
 ---
 
