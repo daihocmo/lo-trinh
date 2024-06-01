@@ -70,22 +70,21 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 | Giải tích 3 | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |    |  |
 
 
-### Linear Algebra
+### Đại số tuyến tính
 
 | Học phần | Khóa học Tiếng Anh tương ứng | Thời lượng học | Tài liệu học |
 | -------------------- | ---------------------------- | -------------- | ------------ |
 | | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | | |
 | | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | | |
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
-### Giải tích
+
+### Giải tích nhiều biến
 
 | Học phần | Khóa học Tiếng Anh tương ứng | Thời lượng học | Tài liệu học |
 | -------------------- | ---------------------------- | -------------- | ------------ |
 | | [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) |    |  |
 
-### Statistics & Probability
+### Xác suất thống kê
 
 | Học phần | Khóa học Tiếng Anh tương ứng | Thời lượng học | Tài liệu học |
 | -------------------- | ---------------------------- | -------------- | ------------ |

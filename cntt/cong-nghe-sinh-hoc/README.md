@@ -1,22 +1,4 @@
-<div align="center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
-<h3>Open Source Society University</h3>
-<p>
-  :microscope: Path to a free self-taught education in  <strong>Bioinformatics!</strong>
-</p>
-<p>
-  <a href="https://github.com/open-source-society/bioinformatics">
-	<img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
-  </a>
-</p>
-<p>
-  <h3>
-    Archived
-  </h3>
-</p>
-</div>
-
-Note: this curriculum is not under active development and may be out of date. Read more [here](./ARCHIVED.md).
+# Lộ trình tự học ngành Công nghệ sinh học
 
 ## Contents
 
