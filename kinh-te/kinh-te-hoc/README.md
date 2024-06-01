@@ -40,6 +40,7 @@
 
 
 ## Phần 4
+
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
 | Kinh tế học tiền tệ  | Monetary Economics |    |
@@ -47,7 +48,7 @@
 | Kinh tế vĩ mô quốc tế| International Macroeconomics |    |
 | Kinh tế học tăng trưởng  | Growth Economics   |    |
 | Kinh tế học các vấn đề xã hội  | Economics of Social Problems |    |
-| Kinh tế Trung Quốc   | Chinese Economy    |    |
+| Kinh tế Trung Quốc | Chinese Economy |    |
 | Kinh tế lao động nâng cao| Advanced Labor Economics     |    |
 | Hội nhập kinh tế quốc tế | International Economic Integration  |    |
 | Kinh tế học biến đổi khí hậu   | Economics of Climate Change  |    |
@@ -60,4 +61,6 @@
 | Phân tích đầu tư trong thị trường tài chính     | Investment Analysis in Financial Markets|    |
 | Kinh tế học hành vi  | Behavioural Economics  |    |
 | Lập trình kinh tế vĩ mô  | Macroeconomic Programming    |    |
+
+
 
