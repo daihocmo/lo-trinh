@@ -1,5 +1,6 @@
-
 # Lộ trình tự học ngành Kinh tế học
+
+## Phần 1
 
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
@@ -11,12 +12,19 @@
 | Nguyên lý kế toán    | Accounting Principles  |    |
 | Lý thuyết tài chính tiền tệ    | Monetary and Financial Theories     |    |
 | Thống kê trong kinh tế và kinh doanh  | Statistics for Economics and Business   |    |
+
+## Phần 2
+
+| Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
+| --------- | ---------------------------- | ------------ |
 | Kinh tế quốc tế | International Economics|    |
 | Kinh tế đầu tư  | Investment Economics   |    |
 | Kinh tế phát triển   | Development Economics  |    |
 | Kinh tế và quản lý môi trường  | Environmental Economics and Management  |    |
-| Kinh tế lao động| Labor Economics    |    |
+| Kinh tế lao động | Labor Economics    |    |
 
+
+## Phần 3
 
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
@@ -31,6 +39,7 @@
 | Đề án chuyên sâu Kinh tế học   | Essay on Economics |    |
 
 
+## Phần 4
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
 | Kinh tế học tiền tệ  | Monetary Economics |    |

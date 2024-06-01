@@ -21,11 +21,11 @@ Rất nhiều ngành ở đây có thể tự học và rèn luyện với thự
     + [Bản Tiếng Việt của lộ trình trên](./cntt/an-toan-thong-tin/README.md)
 - Khoa học dữ liệu: 
     + [Data Science Curriculum](https://github.com/ossu/data-science): Chương trình được soạn bởi cộng đồng OSSU.
-    + [Lộ trình tự học Khoa học dữ liệu](./cntt/khoa-hoc-du-lieu/index.md)
+    + [Lộ trình tự học Khoa học dữ liệu](./cntt/khoa-hoc-du-lieu/README.md)
 - Công nghệ sinh học:
     + [OSSU-Bioinformatics](https://github.com/ossu/bioinformatics) - (Đã ngừng cập nhật từ tháng 10-2023 trên Github). 
     + [Learn Bioinformatics at home](https://github.com/harvardinformatics/learning-bioinformatics-at-home):  (Lấy học liệu từ Harvard) Chương trình ở trên sẽ bài bản hơn
-    + [Bản Tiếng Việt cho OSSU-Bioinformatics](./cntt/cong-nghe-sinh-hoc/index.md) - Lộ trình học dựa trên các khóa Tiếng Việt tương ứng
+    + [Bản Tiếng Việt cho OSSU-Bioinformatics](./cntt/cong-nghe-sinh-hoc/README.md) - Lộ trình học dựa trên các khóa Tiếng Việt tương ứng
 
 
 ## Khối ngành Khoa học tự nhiên

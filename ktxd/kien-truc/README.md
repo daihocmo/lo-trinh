@@ -1,3 +1,5 @@
+# Lộ trình tự học ngành Kiến trúc
+
 ## Bảng chỉ mục
 
 - [Cộng đồng](#cộng-đồng)
@@ -14,6 +16,8 @@ Có rất nhiều những cộng đồng liên quan đến chuyên ngành, đa p
 ## Lộ trình học
 
 _Các môn đã bị lược bỏ bao gồm: Công nghệ thông tin cơ bản, Tiếng Anh._ 
+
+_Chưa tìm được Playlist môn nào trên Youtube nên đừng bấm link ở từng môn trong lộ trình nha_
 
 ### Học kì 1
 
