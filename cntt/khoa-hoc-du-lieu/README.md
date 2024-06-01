@@ -1,26 +1,14 @@
-<div align="center" style="text-align: center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
-<h3>Open Source Society University</h3>
-<p>
-  :bar_chart: Path to a free self-taught education in <strong>Data Science</strong>!
-</p>
-<p>
-  <a href="https://github.com/open-source-society/data-science">
-    <img alt="Open Source Society University - Data Science" src="https://img.shields.io/badge/OSSU-data--science-blue.svg">
-  </a>
-</p>
-</div>
 
 ## Contents
 
-- [About](#about)
-- [Curricular Guideline](#curricular-guideline)
-- [Curriculum](#curriculum)
-- [How to use this guide](#how-to-use-this-guide)
-- [Prerequisites](#prerequisites)
-- [How to contribute](#how-to-contribute)
-- [Code of conduct](#code-of-conduct)
-- [Community](#community)
+- [Về lộ trình](#about)
+- [Hướng dẫn lộ trình](#curricular-guideline)
+- [Lộ trình](#curriculum)
+- [Cách học trong lộ trình](#how-to-use-this-guide)
+- [Phần thiết yếu trong lộ trình](#prerequisites)
+- [Đóng góp vào lộ trình](#how-to-contribute)
+- [Quy định](#code-of-conduct)
+- [Cộng đồng](#community)
 - [Team](#team)
 
 ## About
