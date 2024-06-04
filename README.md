@@ -62,3 +62,16 @@ Rất nhiều ngành ở đây có thể tự học và rèn luyện với thự
 - Hội họa: 
     + Một Roadmap cực chất lượng được xây dựng bởi RadioRunner, bạn đọc bằng cách [bấm vào đây](https://www.brendanmeachen.com/soloartist)
     + Bản Tiếng Việt tương ứng: [Lộ trình tự học hội họa](./nghe-thuat-do-hoa/hoi-hoa/README.md) - Tớ đang thử thiết kế dựa trên lộ trình học ở trên.
+
+
+## Các ngành khác (Chưa được làm, sẽ để ở trạng thái TODO)
+- Tài chính - ngân hàng
+- 
+
+
+## Các cộng đồng liên quan
+
+Trang này sẽ tổng hợp những cộng đồng trên Internet liên quan đến ngành, hoàn toàn là Tiếng Anh, vì mình khó tìm được một Server Tiếng Việt nào ổn cho những thứ như thế này.
+
+
+Đang trong quá trình thực hiện!
