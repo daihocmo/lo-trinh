@@ -48,7 +48,7 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups of up to 5, ideally following the suggested order.
 - We recommend doing all courses in the Core Curriculum, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially the Core Curriculum) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
+- For simplicity, we recommend working through courses (especially the Core Curriculum) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their Khóa Tiếng Việt.
 - Courses in Advanced Information Security are electives. Choose one subject (e.g. [Advanced Programming](#advanced-programming)) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
 - Courses in Specialization are also a form of elective. However, you are picking a particular niche rather than a set of classes.
 
@@ -68,7 +68,7 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `0.0.1` (see [CHANGELOG](CHANGELOG.md))
 
-- [Yêu cầu tối thiểu](#prerequisites)
+- [Yêu cầu tối thiểu](#Khóa Tiếng Việt)
 - [Introductory Materials](#introductory-materials)
   - [Giới thiệu về Lâp trình](#introduction-to-programming)
   - [Giới thiệu về Khoa học máy tính](#introduction-to-computer-science)
@@ -91,7 +91,7 @@ just remember that you can't purchase success!
 
 ---
 
-## Prerequisites
+## Khóa Tiếng Việt
 
 - [Core Curriculum](#core-cs) assumes the student has already taken high school math. This includes algebra, geometry, and pre-calculus.
 - [Advanced Information Security](#advanced-information-security) and [Specialization](#specialization) assumes the student has already taken the entirety of the Core Curriculum and is knowledgeable enough now to decide which electives to take.
@@ -100,19 +100,19 @@ just remember that you can't purchase success!
 
 ### Introduction to Programming
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
+Chưa lập trình bao giờ thì bắt đầu ở đây
 
 **Topics covered**:
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Khóa Tiếng Việt | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none
+[Python for Everybody](https://www.py4e.com/lessons) | [Tek4 Python](https://tek4.vn/khoa-hoc/lap-trinh-python-can-ban) |  | none
 
 ### Introduction to Computer Science
 
-This course will introduce you to the world of programming. Students who have been introduced to programming, either from the courses above or through study elsewhere, should take this course for a flavor of the material to come. If you finish the course wanting more, Information Security is likely for you!
+Hiểu về khoa học máy tính
 
 **Topics covered**:
 `computation`
@@ -120,7 +120,7 @@ This course will introduce you to the world of programming. Students who have be
 `basic data structures and algorithms`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home)
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - 
@@ -136,7 +136,7 @@ This course will introduce you to basic logic to be applied to your decision mak
 `reasoning`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke) | 16 Weeks | 5 hours/week | none
 
@@ -160,7 +160,7 @@ All coursework under Core Curriculum is **required**, unless otherwise indicated
 
 The How to Code courses are based on the textbook [How to Design Programs](https://htdp.org/2003-09-26/). The First Edition is available for free online and includes problem sets and solutions. Students are encouraged to do these assignments.
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | 8-10 hours/week | none 
 [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | 8-10 hours/week
@@ -179,9 +179,9 @@ Courses | Duration | Effort | Prerequisites
 `Privacy and Civil Liberties`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | Hiểu về dữ liệu riêng tư căn bản
 
 ### Databases 
 
@@ -192,7 +192,7 @@ Courses | Duration | Effort | Prerequisites
 `transaction processing`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming
@@ -209,14 +209,14 @@ Courses | Duration | Effort | Prerequisites
 `Cryptography`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - 
 [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - 
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | -
 
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | -
 [Debuggers 1011: Introductory WinDbg](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1011_WinDbg1+2021_v1/about) | 2 weeks | 10-15 hours/week | -
@@ -240,7 +240,7 @@ But students should take *every* course that is relevant to the field they inten
 `large-scale software architecture and design`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about) | 8 weeks | 10-15 hours/week | C programming
 [Architecture 2001: x86-64 OS Internals](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001_x86-64_OS_Internals+2021_v1/about) | 6 weeks | 10-15 hours/week | x86-64 Assembly Programming 
@@ -251,7 +251,7 @@ Courses | Duration | Effort | Prerequisites
 
 ### Advanced Information Security
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
@@ -264,7 +264,7 @@ After completing the curriculum above, you are finally ready to pursue a special
 ### Digital Mobile Forensics
 Learn to extract data from mobile devices, with (or without) credentials.
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Android Forensics and Security Testing](https://opensecuritytraining.info/AndroidForensics.html) | 3 weeks | 10-15 hours/week | -
 [Introduction to ARM](https://opensecuritytraining.info/IntroARM.html) | 8 weeks | 10-15 hours/week | x86-64 Assembly Programming
@@ -272,7 +272,7 @@ Courses | Duration | Effort | Prerequisites
 ### Software Reverse Engineering
 Become good at understanding how software works, with limited to no available source code.
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Reverse Engineering 3011: Reversing C++ Binaries](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3011_re_cpp+2022_v1/about) | 5 weeks | 10-15 hours/week | C and Assembly Programming
 [Reverse Engineering 3201: Symbolic Analysis](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3201_symexec+2021_V1/about) | 5 weeks | 10-15 hours/week | C, Python, Assembly Programming
@@ -280,7 +280,7 @@ Courses | Duration | Effort | Prerequisites
 ### Secure Software Development
 Develop Secure Software that's hard to exploit.
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
 [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
@@ -289,7 +289,7 @@ Courses | Duration | Effort | Prerequisites
 ### Security Compliance
 Learn security standards in which the industry builds networks and systems, and how to implement them effectively. We have elected to train to NIST standards, as we believe risk evaluation, a core piece of NIST standards, to be an important component in information security.
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [NIST CSF](https://www.coursera.org/learn/nist-csf?specialization=cybersecurity-risk-management-framework) | 1 week | 4 hours/week | -
 [NIST DoD RMF](https://www.coursera.org/learn/nist-dod-rmf?specialization=cybersecurity-risk-management-framework) | 1 week | 4 hours/week | NIST CSF
@@ -299,7 +299,7 @@ Courses | Duration | Effort | Prerequisites
 ### Cryptography
 Design and implement cryptographic systems, learn how they work, and learn what makes certain encryption algorithms more secure than others.
 
-Courses | Duration | Effort | Prerequisites
+Courses | Duration | Effort | Khóa Tiếng Việt
 :-- | :--: | :--: | :--:
 [Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
 [Applied Cryptography](https://www.coursera.org/specializations/applied-crypto) | 20 weeks | 2 hours/week | -

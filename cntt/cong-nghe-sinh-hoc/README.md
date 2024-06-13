@@ -8,7 +8,7 @@
 - [How to use this guide](#how-to-use-this-guide)
 - [Prerequisite](#prerequisite)
 - [How to collaborate](#how-to-collaborate)
-- [Code of Conduct](#code-of-conduct)
+- [Khóa Tiếng Việt of Conduct](#Khóa Tiếng Việt-of-conduct)
 - [Community](#community)
 - [Team](#team)
 - [References](#references)
@@ -39,10 +39,10 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 ### 1st Year
 
-Code | Course | Duration | Effort
+Khóa Tiếng Việt | Course | Duration | Effort
 :-- | :--: | :--: | :--:
-BIO 1311 | [Fundamentals of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | 12 weeks | 7-14 Hours/Week
-CHEM 1311 | [Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/) | 15 Weeks | 4-6 Hours/Week
+Sinh học cơ bản | [Fundamentals of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | 12 weeks | 7-14 Hours/Week
+Khoa học hóa chất | [Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/) | 15 Weeks | 4-6 Hours/Week
 Py4E | [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week
 6.00.1x | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week
 MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
@@ -54,7 +54,7 @@ MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera
 
 ### 2nd Year
 
-Code | Course | Duration | Effort
+Khóa Tiếng Việt | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 BIO 2311 | [Biochemistry](https://www.edx.org/course/principles-of-biochemistry) | 15 Weeks | 4-6 Hours/Week
 CHEM 2311 | [Organic Chemistry](http://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/) | 15 Weeks | 4-6 Hours/Week
@@ -68,7 +68,7 @@ MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inf
 
 ### 3rd Year
 
-Code | Course | Duration | Effort
+Khóa Tiếng Việt | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 BIO 3311 | [Proteins' Biology](https://www.edx.org/course/proteins-biologys-workforce) | 5 Weeks | 4-6 Hours/Week
 COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmic-thinking-1) | 4 Weeks | 6 Hours/Week
@@ -83,9 +83,9 @@ BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 
 
 ### 4th Year
 
-Code | Course | Duration | Effort
+Khóa Tiếng Việt | Course | Duration | Effort
 :-- | :--: | :--: | :--:
-BIO 4311 | [DNA: Biology's Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code) | 6 Weeks | 4-6 Hours/Week
+BIO 4311 | [DNA: Biology's Genetic Khóa Tiếng Việt](https://www.edx.org/course/dna-biologys-genetic-Khóa Tiếng Việt) | 6 Weeks | 4-6 Hours/Week
 COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
 BIO 4312a | [Molecular Biology](https://ocw.mit.edu/courses/biology/7-28-molecular-biology-spring-2005/) | 16 Weeks | 4-8 Hours/Week
 BIO 4312d | [Bioinformatics 1](https://www.coursera.org/learn/dna-analysis) | 4 Weeks | 4-10 Hours/Week
@@ -100,7 +100,7 @@ BIO 4313 | [Evolution](https://www.coursera.org/learn/genetics-evolution) | 11 W
 
 ### Extra Year
 
-Code | Course | Duration | Effort
+Khóa Tiếng Việt | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
 COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
@@ -205,7 +205,7 @@ The **important** thing for each course is to **internalize** the **core concept
 
 ### Content Policy
 
-You must share **only** files that you are **allowed** to! **Do NOT disrespect the code of conduct** that you signed in the beginning of some courses.
+You must share **only** files that you are **allowed** to! **Do NOT disrespect the Khóa Tiếng Việt of conduct** that you signed in the beginning of some courses.
 
 [Be creative](#be-creative) in order to show your progress! :smile:
 
@@ -232,9 +232,9 @@ The **extras** section is a place where all of us will be able to submit interes
 
 **Let's do it together! =)**
 
-## Code of conduct
+## Khóa Tiếng Việt of conduct
 
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+[OSSU's Khóa Tiếng Việt of conduct](https://github.com/ossu/Khóa Tiếng Việt-of-conduct).
 
 ## Community
 

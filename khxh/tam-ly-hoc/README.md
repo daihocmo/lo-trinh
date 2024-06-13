@@ -4,7 +4,6 @@
 
 - [Cộng đồng](#cộng-đồng)
 - [Lộ trình học](#lộ-trình-học)
-- [Tiếng Anh chuyên ngành](#tiếng-anh-chuyên-ngành)
 - [Tài nguyên](#tài-nguyên)
 - [Đóng góp](#đóng-góp)
 
@@ -13,6 +12,10 @@
 Có rất nhiều những cộng đồng liên quan đến chuyên ngành, đa phần là Tiếng Anh.
 
 ## Lộ trình học
+
+### Tiếng Anh chuyên ngành
+
+### Chuyên ngành chính
 
 Được tham khảo từ [Chương trình tâm lý học trường đại học Berkeley](https://psychology.sfsu.edu/major-requirements-roadmap)
 
