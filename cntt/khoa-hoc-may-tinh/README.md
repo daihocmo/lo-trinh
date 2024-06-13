@@ -110,29 +110,43 @@ and is knowledgeable enough now to decide which electives to take.
 
 Đây là điểm khởi đầu cho những người chưa biết gì về Khoa học máy tính và muốn thử xem liệu ngành này có phù hợp với họ không.
 
-Có 2 lộ trình gợi ý
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--:
+[CS50 phụ đề Tiếng Việt trên Youtube](https://youtube.com/playlist?list=PLJ3cEjfn1AKRdtE2KNLCw0sgBfdmAeulI) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
 
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Tin học đại cương](https://youtube.com/playlist?list=PLn6ZlYyG63qOvA6YstHHVqPec15eRmwIo)  |  | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-tin-hoc-dai-cuong-hust/)       |
-| [Nhập môn CNTT]() |  | Không tìm được nhưng vẫn có [Tài liệu học](https://tailieuhust.com/nhap-mon-cong-nghe-thong-tin-tuyen-thong/)    |
-| [Nhập môn công nghệ phần mềm](https://youtube.com/playlist?list=PL8C72loXhwtGQ8gKxQE5dT4Luqva2thG1) |  | [Tài liệu học](https://tailieuhust.com/nhap-mon-cong-nghe-phan-mem-hust/)  |
-
-
-Hoặc theo học CS50, [đây là bản phụ đề Tiếng Việt trên Youtube]().
+NÊN HỌC: Bạn có thể học 
 
 ## Core CS
 
-Các môn trong này đều **cần thiết**.
+Các môn trong này đều **bắt buộc**.
 
 ### Lập trình
 
 Đây là phân mục về lập trình.
 
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Kỹ thuật lập trình](https://youtube.com/playlist?list=PLm947uFyFk63ENmbYTrSHvYNMRPNqdTEp) |  | [Tài liệu học](https://tailieuhust.com/tai-lieu-ky-thuat-lap-trinh-hust/)         |
-| [Lập trình hướng đối tượng](https://youtube.com/playlist?list=PLa0PSgLon8z1KojFGstlyU7wMtAaX4nh6) |  | [Tài liệu học](https://tailieuhust.com/lap-trinh-huong-doi-tuong-hust/) |
+**Topics covered**:
+`functional programming`
+`design for testing`
+`program requirements`
+`common design patterns`
+`unit testing`
+`object-oriented design`
+`static typing`
+`dynamic typing`
+`ML-family languages (via Standard ML)`
+`Lisp-family languages (via Racket)`
+`Ruby`
+`and more`
+
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--:
+[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | Chưa có
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | Chưa có
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | Chưa có
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | Chưa có
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0) | Chưa có
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | Object-Oriented Design | Chưa có
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Design Patterns | Chưa có
 
 
 ### Toán
@@ -141,13 +155,12 @@ Discrete math (Math for CS) is a prerequisite and closely related to the study o
 
 **Các chủ đề sẽ được học**: `discrete mathematics` `mathematical proofs` `basic statistics` `O-notation` `discrete probability` `and more`
 
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Giải tích I](https://youtube.com/playlist?list=PLlX7racszQb4by9cDXEeRPj4Rj1AePZuq) | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | [Tài liệu ôn](https://tailieuhust.com/tai-lieu-mon-giai-tich-1-dai-hoc-bach-khoa/) |
-| [Giải tích II](https://youtube.com/playlist?list=PLmX3a81qI69J9v3Wz991Jx9o1HU7bZ5eR)  | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | [Tài liệu ôn](https://tailieuhust.com/tai-lieu-mon-giai-tich-2-dai-hoc-bach-khoa/) |
-| [Giải tích III](https://youtube.com/playlist?list=PLrv7xM5GiQtHjZzzlW8CCSfu9Sx5qLruH) | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | [Tài liệu ôn](https://tailieuhust.com/tai-lieu-mon-giai-tich-3-dai-hoc-bach-khoa/) |
-| [Toán rời rạc](https://youtube.com/playlist?list=PLh1Hfe0GTSA4aXrjXDH0UrTY9tZ8adydI)  | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-toan-roi-rac-hust/) |
-| [Xác suất thống kê](https://youtube.com/playlist?list=PLWEmkaCZrXhjoZ4EoAEx7_Kk5sWiG5M9A) | Khóa "Mathematics for Computer Science" đã bao gồm cả xác suất thống kê | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-xac-suat-thong-ke-hust/)       |
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Notes | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--: | :--:
+[Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) ([alternative](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)) | 13 weeks | 6-10 hours/week | The alternate covers this and the following 2 Khóa học gốc | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [Giải tích I](https://youtube.com/playlist?list=PLlX7racszQb4by9cDXEeRPj4Rj1AePZuq) 
+[Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week | - | Calculus 1A | [Giải tích II](https://youtube.com/playlist?list=PLmX3a81qI69J9v3Wz991Jx9o1HU7bZ5eR)
+[Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week | - | Calculus 1B | [Giải tích III](https://youtube.com/playlist?list=PLrv7xM5GiQtHjZzzlW8CCSfu9Sx5qLruH)
+[Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([alternative](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)) | 13 weeks | 5 hours/week | [2015/2019 solutions](https://github.com/spamegg1/Math-for-CS-solutions) [2010 solutions](https://github.com/frevib/mit-cs-math-6042-fall-2010-problems) [2005 solutions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/assignments/). | Calculus 1C | - [Toán rời rạc](https://youtube.com/playlist?list=PLh1Hfe0GTSA4aXrjXDH0UrTY9tZ8adydI) <br> - [Xác suất thống kê](https://youtube.com/playlist?list=PLWEmkaCZrXhjoZ4EoAEx7_Kk5sWiG5M9A)
 
 ### Công cụ
 
@@ -155,10 +168,9 @@ Understanding theory is important, but you will also be expected to create progr
 
 **Các chủ đề sẽ được học**: `terminals and shell scripting` `vim` `command line environments` `version control` `and more`
 
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Kì Học Bị Thiếu Của Giáo Trình Khoa Học Máy Tính](https://missing-semester-vn.github.io/) | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | |
-
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--:
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - | [Kì Học Bị Thiếu Của Giáo Trình Khoa Học Máy Tính](https://missing-semester-vn.github.io/) 
 
 ### Hệ thống
 
@@ -166,61 +178,16 @@ Understanding theory is important, but you will also be expected to create progr
 
 _PS: Mặc dù thêm bên cạnh "Khóa Tiếng Anh tương ứng" cho hai khóa đầu nhưng nó không thực sự liên quan đến nhau. Việc học khóa Tiếng Anh **NandToTetris** được khuyến khích hơn nếu bạn có Tiếng Anh tốt._
 
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Kiến trúc máy tính](https://youtube.com/playlist?list=PLG92h61c7jzCFtOuwrbiMy4IASS9CQcTS) | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-kien-truc-may-tinh-hust/)     |
-| [Phân tích và thiết kế hệ thống](https://youtube.com/playlist?list=PLVrHxivsV5nw7RErJ6eabmG_s7cAuvK0e) | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | [Tài liệu học](https://tailieuhust.com/phan-tich-va-thiet-ke-he-thong-hust/)  |
-| [Nguyên lý hệ điều hành](https://youtube.com/playlist?list=PLgaUq0lEBS4Z5aZvZ0IBeigFZ_wBcnOVC) | [Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/blob/master/coursepages/ostep/README.md) | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-nguyen-ly-he-dieu-hanh-hust/) |
-| [Mạng máy tính](https://youtube.com/playlist?list=PLAWl4sDZTi7swN1NS7E-4AZIRacmGQDES)| [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | [Tài liệu học](https://tailieuhust.com/tai-lieu-mang-may-tinh-hust/) |
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Bài tập bổ sung | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--: | :--:
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alternative](https://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [Kiến trúc máy tính](https://youtube.com/playlist?list=PLG92h61c7jzCFtOuwrbiMy4IASS9CQcTS)
+[Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [Phân tích và thiết kế hệ thống](https://youtube.com/playlist?list=PLVrHxivsV5nw7RErJ6eabmG_s7cAuvK0e)
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [Nguyên lý hệ điều hành](https://youtube.com/playlist?list=PLgaUq0lEBS4Z5aZvZ0IBeigFZ_wBcnOVC)
+[Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [Mạng máy tính](https://youtube.com/playlist?list=PLAWl4sDZTi7swN1NS7E-4AZIRacmGQDES)
 
 ### Lý thuyết
 
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Cấu trúc dữ liệu và thuật toán](https://youtube.com/playlist?list=PLmg9FBJehZ2ekgkQzISd5iLpSthbSD-Fr)       |  | Cá nhân tôi gợi ý xem Playlist của [Ông Dev](https://youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L), ngắn hơn và có thực hành.<br>- [Tài liệu học](https://tailieuhust.com/cau-truc-du-lieu-va-giai-thuat-hust/) |
-| [Thuật toán ứng dụng](https://youtube.com/playlist?list=PLa0PSgLon8z1CvH1v5X6b9JFFmhXjtP2M)|  | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-thuat-toan-ung-dung-hust/)    |
-| [Quản trị dự án công nghệ thông tin](https://youtube.com/playlist?list=PLNYd0dgTx2h37NCTo0SSzW_0Ve-sIe8aM)   |  | [Tài liệu học]()|
-
-
-### Bảo mật
-
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Nhập môn An toàn thông tin](https://youtube.com/playlist?list=PL4HswZdne0RTNoHnXYuPyCSVOohprhvre)           |  | [Tài liệu học](https://tailieuhust.com/nhap-mon-an-toan-thong-tin/)  |
-
-### Ứng dụng
-
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Cơ sở dữ liệu](https://youtube.com/playlist?list=PLbYczd6ZufmgWOyRiz5tX0xwYInHFMCPB)|  | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-co-so-du-lieu-hust/)          |
-| [Nhập môn Trí tuệ nhân tạo](https://youtube.com/playlist?list=PLgaUq0lEBS4Z_0D5IUEj3JVRcgR_eJzvL) |  | [Tài liệu học](https://tailieuhust.com/nhap-mon-tri-tue-nhan-tao-hust/) |
-| [Nhập môn Học máy và khai phá dữ liệu](https://youtube.com/playlist?list=PLgaUq0lEBS4asEXPmOFObr6tmBs__sR-j) |  | [Tài liệu học](https://tailieuhust.com/nhap-mon-hoc-may-va-khai-pha-du-lieu/)     |
-
-## Advanced CS
-
-### Định hướng Công nghệ phần mềm
-
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Thiết kế và xây dựng phần mềm](https://youtube.com/playlist?list=PL4q_6l9Q7STmCFMu73YY38Cw2nQ9-wI-Y)   |  | [Tài liệu học]()  |
-| [Giao diện và trải nghiệm người dùng](https://tailieuhust.com/khoa-hoc-thiet-ke-trai-nghiem-nguoi-dung-co-ban-ux-design/) |  | [Tài liệu học](https://tailieuhust.com/tai-lieu-mon-giao-dien-va-trai-nghiem-nguoi-dung-hust/)- Khóa học được chia sẻ bởi tailieuhust và hình như phải tải về =))    |
-| [Đảm bảo chất lượng phần mềm](https://youtube.com/playlist?list=PLgz-2mfZt-NvzWGhN2vkHW3b8B0KchLjt)     |  | [Tài liệu học](https://www.studocu.com/vn/course/truong-dai-hoc-bach-khoa-ha-noi/dam-bao-chat-luong-phan-mem/5410847)- Link này trên Studocu, bị chặn ở nước mình rùi nên bác tự VPN tải nha, nhớ dùng Stuhack trên Chrome để đỡ phải đăng nhập<br>- [Slide môn học](https://users.soict.hust.edu.vn/trungtt/uploads/slides/)<br>- [Một kho tài nguyên nữa](https://dlib.hust.edu.vn/handle/HUST/5398) |
-
-### Định hướng Khoa học dữ liệu
-
-
-| TÊN HỌC PHẦN  | Khóa Tiếng Anh tương ứng | Tài nguyên học |
-| ------------- | ------------------------ | -------------- |
-| [Nhập môn Khoa học dữ liệu](https://youtube.com/playlist?list=PLQj93CJe0N72eXz0H-fRiEeCAkjBr5bAO) |  | Playlist gốc của môn này là do người dùng làm, còn xem bản dài (Không phải của HUST) thì [ở đây](https://youtube.com/playlist?list=PLZ_Q3nerM6FzuUYeeFbyG0cX4N4yxpgJS)<br>- [Tài liệu học]() |
-| Lưu trữ dữ liệu lớn        |  | [Tài liệu học]()       |
-| Xử lý dữ liệu lớn          |  | [Tài liệu học]()       |
-| Trực quan hóa dữ liệu      |  | [Tài liệu học]()       |
-
-
-
-### Core theory
-
-**Topics covered**:
+**Bao gồm các chủ đề**:
 `divide and conquer`
 `sorting and searching`
 `randomized algorithms`
@@ -233,15 +200,18 @@ _PS: Mặc dù thêm bên cạnh "Khóa Tiếng Anh tương ứng" cho hai khóa
 `NP-completeness`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY)
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t)
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz)
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u)
+Các khóa Tiếng Anh dưới đây đều có phụ đề Tiếng Việt trong video. Cả 4 khóa! 
 
-### Core security
-**Topics covered**
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--:
+[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | Chưa có
+[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | Chưa có
+[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | Chưa có
+[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | Chưa có
+
+### Bảo mật
+
+**Bao gồm các chủ đề**
 `Confidentiality, Integrity, Availability`
 `Secure Design`
 `Defensive Programming`
@@ -250,22 +220,25 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `Cryptography`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4)
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | [chat](https://discord.gg/5gMdeSK)
-[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | [chat](https://discord.gg/V78MjUS)
+Ngoại trừ khóa đầu tiên là của edX, các khóa sau của Coursera đều có phụ đề Tiếng Việt
 
-Choose **one** of the following:
-
-Courses | Duration | Effort | Prerequisites | Discussion
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
 :-- | :--: | :--: | :--: | :--:
-[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | - | [chat](https://discord.gg/Vbxce7A)
-[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | - | [chat](https://discord.gg/QxC22rR)
+[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | Chưa có
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | Chưa có
+[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | - | Chưa có
+
+
+Chọn **một** trong hai khóa sau đây:
+
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--:
+[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | - | Chưa có
+[Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | - | Chưa có
 
 ### Core applications
 
-**Topics covered**:
+**Bao gồm các chủ đề**:
 `Agile methodology`
 `REST`
 `software specifications`
@@ -280,18 +253,18 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `ray tracing`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
 :-- | :--: | :--: | :--: | :--:
-[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4)
-[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF)
-[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
-[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy)
-[Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
-[Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | 4 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
+[Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | Chưa có
+[Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | Chưa có
+[Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | Chưa có
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding | Chưa có
+[Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alternative](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| 6 weeks | 12 hours/week | C++ or Java, linear algebra | Chưa có
+[Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | 4 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | Chưa có
 
 ### Core ethics
 
-**Topics covered**:
+**Bao gồm các chủ đề**:
 `Social Context`
 `Analytical Tools`
 `Professional Ethics`
@@ -299,21 +272,22 @@ Courses | Duration | Effort | Prerequisites | Discussion
 `Privacy and Civil Liberties`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
+Các khóa học đều trên Coursera và có phụ đề Tiếng Việt trong video.
+
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
 :-- | :--: | :--: | :--: | :--:
-[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week | none | [chat](https://discord.gg/6ttjPmzZbe)
-[Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | 2 hours/week | none | [chat](https://discord.gg/YbuERswpAK)
-[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | [chat](https://discord.gg/64J34ajNBd)
+[Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)| 9 weeks | 2 hours/week | none | Chưa có
+[Introduction to  Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property)| 4 weeks | 2 hours/week | none | Chưa có
+[Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)| 3 weeks | 3 hours/week | none | Chưa có
+
 
 ## Advanced CS
 
-After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
-Not every course from a subcategory needs to be taken.
-But students should take *every* course that is relevant to the field they intend to go into.
+Sau khi hoàn thành **Core CS** thì giờ sẽ là lúc chọn chuyên ngành hẹp. Cần phải học hết phần chuyên ngành hẹp mà bạn đã chọn
 
 ### Advanced programming
 
-**Topics covered**:
+**Bao gồm các chủ đề**:
 `debugging theory and practice`
 `goal-oriented programming`
 `parallel computing`
@@ -322,20 +296,20 @@ But students should take *every* course that is relevant to the field they inten
 `large-scale software architecture and design`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala programming
-[Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | none
-[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | - | -
-[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alternative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | - | -
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
-[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, programming experience
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt 
+:-- | :--: | :--: | :--: | :--:
+[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala programming | Chưa có
+[Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | none | Chưa có
+[Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)| 14 weeks | - | - | Chưa có
+[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online) ([alternative](https://github.com/ossu/computer-science/files/6085884/lpn.pdf))*| 12 weeks | - | - | Chưa có
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming | Chưa có
+[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) | 4 weeks | 6 hours/week | Python, programming experience | Chưa có
 
 (*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
 
 ### Advanced systems
 
-**Topics covered**:
+**Bao gồm các chủ đề**:
 `digital signaling`
 `combinational logic`
 `CMOS technologies`
@@ -351,15 +325,15 @@ Courses | Duration | Effort | Prerequisites
 `system call interface`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Notes
-:-- | :--: | :--: | :--: | :--:
-[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses.
-[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | 6 hours/week | Computation Structures 1 |
-[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 |
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Ghi chú | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--: | :--:
+[Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) [alternative 1](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/) [alternative 2](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/) | 10 weeks | 6 hours/week | [Nand2Tetris II](https://www.coursera.org/learn/nand2tetris2) | Alternate links contain all 3 courses. | Chưa có
+[Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015) | 10 weeks | 6 hours/week | Computation Structures 1 | | Chưa có
+[Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) | 10 weeks | 6 hours/week | Computation Structures 2 | | Chưa có
 
 ### Advanced theory
 
-**Topics covered**:
+**Bao gồm các chủ đề**:
 `formal languages`
 `Turing machines`
 `computability`
@@ -375,32 +349,32 @@ Courses | Duration | Effort | Prerequisites | Notes
 `game trees`
 `and more`
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alternative](http://aduni.org/courses/theory/index.php?view=cw)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), logic, algorithms
-[Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week | algorithms, C++
-[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt 
+:-- | :--: | :--: | :--: | :--:
+[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alternative](http://aduni.org/courses/theory/index.php?view=cw)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), logic, algorithms | Chưa có
+[Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week | algorithms, C++ | Chưa có
+[Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus | Chưa có 
 
 ### Advanced Information Security
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
-[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
-[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
-[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
-[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
-[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
-
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt 
+:-- | :--: | :--: | :--: | :--:
+[Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies | Chưa có
+[Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | - | Chưa có
+[Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security | Chưa có
+[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security | Chưa có
+[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse | Chưa có
+[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation | Chưa có
+ 
 ### Advanced math
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
-[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH)
-[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
-[Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? | Khóa Tiếng Việt
+:-- | :--: | :--: | :--: | :--: 
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | Chưa có
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | Chưa có
+[Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | Chưa có
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | Chưa có
+[Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | Chưa có
 
 ## Final project
 
@@ -415,8 +389,8 @@ Students who would like more guidance in creating a project may choose to use a 
 Here is a sample of options
 (many more are available, at this point you should be capable of identifying a series that is interesting and relevant to you):
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
+Khóa học gốc | Thời lượng học | Thời gian học mỗi tuần | Cần học gì trước? 
+:-- | :--: | :--: | :--: | 
 [Fullstack Open](https://fullstackopen.com/en/) | 12 weeks | 15 hours/week | programming
 [Modern Robotics (Specialization)](https://www.coursera.org/specializations/modernrobotics) | 26 weeks | 2-5 hours/week | freshman-level physics, linear algebra, calculus, [linear ordinary differential equations](https://www.khanacademy.org/math/differential-equations)
 [Data Mining (Specialization)](https://www.coursera.org/specializations/data-mining) | 30 weeks | 2-5 hours/week | machine learning

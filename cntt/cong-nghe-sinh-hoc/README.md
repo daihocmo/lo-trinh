@@ -2,16 +2,15 @@
 
 ## Contents
 
-- [About](#about)
-- [Motivation & Preparation](#motivation--preparation)
-- [Curriculum](#curriculum)
-- [How to use this guide](#how-to-use-this-guide)
-- [Prerequisite](#prerequisite)
-- [How to collaborate](#how-to-collaborate)
-- [Khóa Tiếng Việt of Conduct](#Khóa Tiếng Việt-of-conduct)
-- [Community](#community)
+- [Về khóa học](#about)
+- [Động lực và chuẩn bị](#motivation--preparation)
+- [Giáo trình](#curriculum)
+- [Sử dụng giáo trình thế nào?](#how-to-use-this-guide)
+- [Cần học trước những gì](#prerequisite)
+- [Nội quy](#code-of-conduct)
+- [Cộng đồng](#community)
 - [Team](#team)
-- [References](#references)
+- [Tham khảo](#references)
 
 ## About
 
