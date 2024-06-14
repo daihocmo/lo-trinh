@@ -1,8 +1,6 @@
 # Tổng hợp lộ trình tự học đại học các ngành
 
-Tổng hợp lộ trình tự học đại học các ngành sử dụng các nguồn tài nguyên miễn phí hoặc giá cả phải chăng, được xây dựng bởi cộng đồng. 
-
-Bên cạnh đó cũng sẽ có thêm bản Tiếng Việt, có thể sẽ được thêm những học phần Tiếng Việt tương ứng. 
+Tổng hợp lộ trình tự học đại học các ngành sử dụng các nguồn tài nguyên miễn phí được xây dựng bởi cộng đồng. 
 
 Gia nhập kênh Discord [tại đây](https://discord.gg/4fzTNyP6rC) để thảo luận, học tập và đóng góp.
 
@@ -14,6 +12,8 @@ Gia nhập kênh Discord [tại đây](https://discord.gg/4fzTNyP6rC) để th�
 - [Khoa học dữ liệu](./cntt/khoa-hoc-du-lieu/README.md)
 - [Công nghệ sinh học](./cntt/cong-nghe-sinh-hoc/README.md)
 
+## Khối ngành điện tử
+- [Điện tử viễn thông]() - Chưa làm, đang trong quá trình soạn giáo trình
 
 ## Khối ngành Khoa học tự nhiên
 
@@ -31,16 +31,21 @@ Gia nhập kênh Discord [tại đây](https://discord.gg/4fzTNyP6rC) để th�
 - [Digital Marketing Roadmap](./kinh-te/marketing/digital-marketing-roadmap.md) - Đây là chương trình gợi ý. Nếu bạn cần một chương trình tương tự bậc đại học và các khóa hoàn toàn bằng Tiếng Việt - [Lộ trình Marketing bậc đại học](./kinh-te/marketing/README.md)
 
 ## Khối ngành kiến trúc
+
 - [Ngành kiến trúc](./ktxd/kien-truc/README.md) 
 
 ## Khối ngành nghệ thuật - đồ họa
+
 - [Thiết kế đồ họa](./nghe-thuat-do-hoa/thiet-ke-do-hoa/README.md)
 - [Thiết kế nội thất](./nghe-thuat-do-hoa/thiet-ke-noi-that/README.md)
 - [Hội họa](./nghe-thuat-do-hoa/hoi-hoa/README.md) - Tớ đang thử thiết kế dựa trên lộ trình học ở trên.
 
 
-## Các ngành khác (Chưa được làm, sẽ để ở trạng thái TODO)
+## Các ngành khác 
+
+**Những ngành này vẫn đang ở trạng thái TODO, bạn có thể sẽ đọc được lộ trình đang làm dở trên Github.**
+
 - [Tài chính - ngân hàng]()
-- [Điện tử viễn thông]()
+
 
 

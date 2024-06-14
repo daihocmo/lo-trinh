@@ -1,7 +1,20 @@
 # Lộ trình tự học ngành Kinh tế học
 
 
-## Phần 1
+## Bảng chỉ mục
+
+- [Cộng đồng](#cộng-đồng)
+- [Lộ trình học](#lộ-trình-học)
+- [Tiếng Anh chuyên ngành](#tiếng-anh-chuyên-ngành)
+- [Tài nguyên](#tài-nguyên)
+
+## Cộng đồng
+
+Danh sách được liệt kê có thể là cộng đồng hoặc diễn dàn.
+
+
+
+### Phần 1
 
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
@@ -14,7 +27,7 @@
 | Lý thuyết tài chính tiền tệ    | Monetary and Financial Theories     |    |
 | Thống kê trong kinh tế và kinh doanh  | Statistics for Economics and Business   |    |
 
-## Phần 2
+### Phần 2
 
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
@@ -25,7 +38,7 @@
 | Kinh tế lao động | Labor Economics    |    |
 
 
-## Phần 3
+### Phần 3
 
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
@@ -40,7 +53,7 @@
 | Đề án chuyên sâu Kinh tế học   | Essay on Economics |    |
 
 
-## Phần 4
+### Phần 4
 
 | Học phần  | Khóa học Tiếng Anh tương ứng | Tài liệu học |
 | --------- | ---------------------------- | ------------ |
