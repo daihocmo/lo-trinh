@@ -29,23 +29,24 @@
 
 Bạn không cần phải học tất các các phần, hãy học thật chắc phần mà bạn theo
 
-Once you've decided on which channel to roll with, you should also establish a learning methodology.
+Khi bạn đã quyết định nên học phần nào rồi, bạn cũng nên thiết lập một phương pháp học tập.
 
 Tương tự như rất nhiều thứ khác, việc chỉ đọc về digital marketing sẽ không giúp bạn tiến xa, bạn cần thực sự ứng dụng những gì mình đã học, thực hành.
 
-We usually recommend going with one of these 4 options:
+Bạn có thể chọn một trong 4 lựa chọn sau:
 
-1.  **Create a test learning environment**. Basically, you create a website for a basic product or service (heck, even a blog would do!), and start applying whatever you learned about digital marketing to get leads and customers. Even if you have ZERO budget, this can be an interesting learning experience. And yes - it's possible to start w/ a zero budget.
 
-2.  **Get an internship**. This can be a bit painful if you're in the middle of your current career, but hey, swallow the pride. If you do your best, you'll be doing some real work 6 months after the internship.
+1. **Tạo môi trường học tập thử nghiệm**. Về cơ bản, bạn tạo một trang web cho một sản phẩm hoặc dịch vụ cơ bản (Thậm chí có thể là một Blog), và bắt đầu áp dụng bất cứ điều gì bạn đã học về Digital Marketing để có được khách hàng. Ngay cả khi bạn không có vốn, đây có thể là một trải nghiệm học tập hữu ích và bạn THỰC SỰ có thể bắt đầu với ngân sách bằng 0.
 
-3.  **Offer a local business to help them with marketing for free**. Find a business you think you can help in your area and reach out to them!
+2. **Đi thực tập**. Sẽ khá là vấn đề nếu bạn đã có một công việc rồi. Nhưng này, tại sao không thử? Nếu cố gắng hết sức, bạn có thể sẽ được làm việc chính thức sau 6 tháng thực tập.
 
-4.  [Create an affiliate blog](https://www.searchenginejournal.com/affiliate-marketing-blogs/299053/). Pick a niche, create an affiliate blog, and start pumping out some content. This is mainly relevant if you want to learn SEO or content marketing.
+3. **Giúp tiếp thị cho một doanh nghiệp địa phương (local business) miễn phí**. Hãy tìm một doanh nghiệp mà bạn nghĩ rằng bạn có thể giúp đỡ trong khu vực của mình và liên hệ với họ.
 
-And here's what you ***SHOULD NOT DO***:
+4.  [Tạo một blog liên kết - affiliate blog](https://www.searchenginejournal.com/affiliate-marketing-blogs/299053/). Chọn một vị trí thích hợp, tạo một blog liên kết và bắt đầu sản xuất nội dung. Đặc biệt nếu bạn muốn học SEO hoặc tiếp thị nội dung (Content Marketing).
 
-*Read a guide or two, buy a course, whip out your own website, repurpose the course and start pretending to be a marketing expert to potential clients.*
+Và đây là những điều bạn ***KHÔNG NÊN LÀM***:
+
+*Đọc một hoặc hai hướng dẫn, mua một khóa học, tạo trang web của riêng bạn, đăng lại khóa học lên đó và bắt đầu giả làm một chuyên gia tiếp thị.*
 
 There are way too many people doing this as-is. Please stop! You're setting yourself up for failure.
 

@@ -1,9 +1,6 @@
 # Tổng hợp lộ trình tự học đại học các ngành
 
-Tổng hợp lộ trình tự học đại học các ngành sử dụng các nguồn tài nguyên miễn phí được xây dựng bởi cộng đồng. 
-
-Gia nhập kênh Discord [tại đây](https://discord.gg/4fzTNyP6rC) để thảo luận, học tập và đóng góp.
-
+Trang sẽ được chuyển sang thành kho tổng hợp tài nguyên cho RẤT NHIỀU THỨ. 
 
 ## Khối ngành công nghệ thông tin
 
