@@ -2,16 +2,6 @@
 
 Trang sẽ được chuyển sang thành kho tổng hợp tài nguyên cho RẤT NHIỀU THỨ. 
 
-## Khối ngành công nghệ thông tin
-
-- [Khoa học máy tính](./cntt/khoa-hoc-may-tinh/README.md)
-- [An toàn thông tin](./cntt/an-toan-thong-tin/README.md)
-- [Khoa học dữ liệu](./cntt/khoa-hoc-du-lieu/README.md)
-- [Công nghệ sinh học](./cntt/cong-nghe-sinh-hoc/README.md)
-
-## Khối ngành điện tử
-- [Điện tử viễn thông]() - Chưa làm, đang trong quá trình soạn giáo trình
-
 ## Khối ngành Khoa học tự nhiên
 
 - [Toán](./khtn/toan/README.md) - OSSU-Math bản Tiếng Việt 
